@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class FichierOff
 {
-	private const string chemin = @"C:\Users\ecausse1\Downloads\";
+	private const string chemin = @"donnees\";
 	private int nbSommets;
 	private int nbFaces;
 	private int nbAretes;
